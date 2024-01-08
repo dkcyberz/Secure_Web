@@ -17,7 +17,7 @@ CD
 sudo mysql
 
 cd /tmp
-git clone https://github.com/dkcyberz/loginphp.git
+git clone https://github.com/dkcyberz/Secure_Web.git
 cat << Setup
 ********************************************************************************************============================================================================================
 Setup a Password and Remember
